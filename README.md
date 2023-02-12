@@ -1,4 +1,4 @@
 # A2Z DSA Sheet by Striver
 
 ## Links
-[A2Z DSA Sheet] (https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- [A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
