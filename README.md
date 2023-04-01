@@ -1,4 +1,4 @@
-# A2Z DSA Sheet by Striver
+# A2Z DSA 
 
 ## Links
 - [LeetCode](https://leetcode.com/aakankshsingh02/)
